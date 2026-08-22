@@ -27,7 +27,7 @@ def hexToDec(hexNum):
 
     return hexNum
 
-    # I did have to use the hints for tis exercise, (for the first for loop)
+    # I did have to use the hints for this exercise, (for the first for loop)
     # I couldn't figure out how to iterate through each number
     # And I am sure there is a much more efficient version than this code... 
     # BUT YOU KNOW WHAT THE VARIABLES MADE ME LAUGH!!!

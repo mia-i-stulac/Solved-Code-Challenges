@@ -8,7 +8,6 @@ def encodeString(stringVal):
     prev_char = stringVal[0]
     counter = 1
     encodedList = []
-    final_tuple = None
     for char in stringVal[1:]:
         if prev_char == char:
             counter += 1
